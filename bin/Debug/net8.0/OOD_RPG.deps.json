@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "OOD_RPG/1.0.0": {
+        "runtime": {
+          "OOD_RPG.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OOD_RPG/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

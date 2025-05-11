@@ -1,0 +1,14 @@
+C:\Users\Thomas\source\repos\OOD_RPG\obj\Debug\net8.0\OOD_RPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thomas\source\repos\OOD_RPG\obj\Debug\net8.0\OOD_RPG.AssemblyInfoInputs.cache
+C:\Users\Thomas\source\repos\OOD_RPG\obj\Debug\net8.0\OOD_RPG.AssemblyInfo.cs
+C:\Users\Thomas\source\repos\OOD_RPG\obj\Debug\net8.0\OOD_RPG.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\source\repos\OOD_RPG\bin\Debug\net8.0\OOD_RPG.exe
+C:\Users\Thomas\source\repos\OOD_RPG\bin\Debug\net8.0\OOD_RPG.deps.json
+C:\Users\Thomas\source\repos\OOD_RPG\bin\Debug\net8.0\OOD_RPG.runtimeconfig.json
+C:\Users\Thomas\source\repos\OOD_RPG\bin\Debug\net8.0\OOD_RPG.dll
+C:\Users\Thomas\source\repos\OOD_RPG\bin\Debug\net8.0\OOD_RPG.pdb
+C:\Users\Thomas\source\repos\OOD_RPG\obj\Debug\net8.0\OOD_RPG.dll
+C:\Users\Thomas\source\repos\OOD_RPG\obj\Debug\net8.0\refint\OOD_RPG.dll
+C:\Users\Thomas\source\repos\OOD_RPG\obj\Debug\net8.0\OOD_RPG.pdb
+C:\Users\Thomas\source\repos\OOD_RPG\obj\Debug\net8.0\OOD_RPG.genruntimeconfig.cache
+C:\Users\Thomas\source\repos\OOD_RPG\obj\Debug\net8.0\ref\OOD_RPG.dll
